@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: solar-system
+  namespace: dev
   labels:
     app: solar-system
   name: solar-system
